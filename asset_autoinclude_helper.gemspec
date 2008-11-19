@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2008-11-18}
   s.description = %q{Automatically includes javascript and css files named after the current controller}
   s.email = %q{me@timmatheson.com}
-  s.extra_rdoc_files = ["lib/asset_autoinclude_helper.rb", "README.rdoc"]
-  s.files = ["lib/asset_autoinclude_helper.rb", "Manifest", "Rakefile", "README.rdoc", "asset_autoinclude_helper.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "lib/asset_autoinclude_helper.rb", "README.rdoc"]
+  s.files = ["asset_autoinclude_helper.gemspec", "CHANGELOG", "lib/asset_autoinclude_helper.rb", "Manifest", "Rakefile", "README.rdoc"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/timmatheson/asset_autoinclude_helper}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Asset_autoinclude_helper", "--main", "README.rdoc"]
