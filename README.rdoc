@@ -1,0 +1,12 @@
+Usage =======================================
+
+<%= asset_autoinclude_tag %>
+
+Prerequisites ===============================
+
+You need to create files named after your controllers.
+For example a controller with the name BooksController
+You would create books.js and books.css
+This keeps your javascript and css logic in the correct places.
+If you practice unobtrusive css and javascript methods in your 
+development practice this should clean things up quite a bit.
